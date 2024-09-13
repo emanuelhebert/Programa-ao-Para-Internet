@@ -1,0 +1,36 @@
+
+7
+java:S1220""Move this file to a named package.8òèµÅ2
+Y
+java:S1854W"<Remove this useless assignment to local variable "cardapio".(ÕÙñÒ8«éµÅ2
+\
+java:S1854F":Remove this useless assignment to local variable "pessoa".(Û·¬´ÿÿÿÿÿ8¬éµÅ2
+X
+java:S1854#"<Remove this useless assignment to local variable "produto3".(¦Ô÷:8Şº¶Å2
+Y
+java:S1854"<Remove this useless assignment to local variable "produto2".(¨Æ¨‚8¬éµÅ2
+]
+java:S1854";Remove this useless assignment to local variable "produto".(´Úéõşÿÿÿÿ8¬éµÅ2
+N
+java:S1481",Remove this unused "produto" local variable.(´Úéõşÿÿÿÿ8±éµÅ2
+J
+java:S1481"-Remove this unused "produto2" local variable.(¨Æ¨‚8³éµÅ2
+I
+java:S1481#"-Remove this unused "produto3" local variable.(¦Ô÷:8åº¶Å2
+X	java:S1258"<This block of commented-out lines of code should be removed.(“¬¼Ç8™ì¼Å2
+M
+java:S1481F"+Remove this unused "pessoa" local variable.(Û·¬´ÿÿÿÿÿ8ºéµÅ2
+X	java:S125R"<This block of commented-out lines of code should be removed.(·œÈ8»éµÅ2
+J
+java:S1481W"-Remove this unused "cardapio" local variable.(ÕÙñÒ8¼éµÅ2
+X	java:S125a"<This block of commented-out lines of code should be removed.(×¡©˜8¼éµÅ2
+X	java:S125f"<This block of commented-out lines of code should be removed.(Ğ–¶¤8½éµÅ2
+M	java:S106„"+Replace this use of System.out by a logger.(ô‚¬Íşÿÿÿÿ8ÆéµÅ2
+M	java:S106†"+Replace this use of System.out by a logger.(ËÎğ½ıÿÿÿÿ8ÇéµÅ2
+H	java:S106‘"+Replace this use of System.out by a logger.(²ª8ÊéµÅ2
+`
+java:S1128"CRemove this unused import 'javax.persistence.EntityManagerFactory'.(îÜğ8½ë½Å2
+\
+java:S1128":Remove this unused import 'javax.persistence.Persistence'.(›²ö¾ıÿÿÿÿ8½ë½Å2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8½ë½Å2

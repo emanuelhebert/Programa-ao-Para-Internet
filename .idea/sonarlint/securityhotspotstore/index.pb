@@ -1,0 +1,37 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+Q
+!src/main/java/domain/Produto.java,2\3\235aebd2e4fa4684bb93f4ab7149a4ee62e87211
+F
+src/main/java/App.java,6\7\67512e2f04487cca15d6699055f74a51de1a9eb4
+R
+"src/main/java/domain/Cardapio.java,8\9\890272e98063a499e918734adc3e026584a3703d
+V
+&src/main/java/persistence/JPAUtil.java,4\2\42b28db9b8002390f7dabc47e89c876c2378e110
+Q
+!src/main/java/dao/ProdutoDAO.java,f\c\fc5213022b2a6a1e4143247b65b0258219e54f5b
+Q
+!src/main/java/dao/ClienteDAO.java,4\4\445193784602b9063e3a7a71b075b5ce72fdb4c0
+Q
+!src/main/java/domain/Cliente.java,2\6\26057b59a8cb5e92a46c24c97fbd725312e9ee62
+R
+"src/main/java/domain/Endereco.java,7\d\7d9eba22499e26414b11cd658e0418c979bf8693
+R
+"src/main/java/dao/CardapioDAO.java,8\f\8f6c6a8e270812ce0b720bd47860a0b13d3b03f7
+V
+&src/main/java/domain/ItemCardapio.java,0\f\0f900d5986257289a4bdc4b63d7089d5b2fed895
+X
+(src/main/java/service/PedidoService.java,1\3\1304c0a340782f7679d5c29a287177b3411958a8
+P
+ src/main/java/domain/Pedido.java,a\0\a0e8dcc566c9d2e4458ca4cade4738772fee7ef3
+Q
+!src/main/java/domain/Estoque.java,d\c\dc036e00cb2ea20add112959ddaed9325d44f78d
+P
+ src/main/java/dao/PedidoDAO.java,e\0\e09679184cfd4e6e11663aefdffc057334e0e2d3
+Q
+!src/main/java/dao/EstoqueDAO.java,f\1\f197f136a34d626a335af4bad77bf2cf8463c512
+G
+src/main/java/App2.java,4\e\4ee0c8d37d2837bb63018d69920fbebdf6c40ffd
+Y
+)src/main/java/service/EstoqueService.java,9\7\97eae230cefed8b8b555f7cc5a5ddd4be75917fd
